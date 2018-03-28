@@ -1,2 +1,0 @@
-rebase idraw on axidraw master
-    although idraw seems to work fine on all of idraw, axidraw old and axidraw new
